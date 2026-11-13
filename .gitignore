@@ -1,0 +1,5 @@
+# Личные и временные файлы
+passwords.txt
+*.tmp
+.DS_Store
+Thumbs.db
